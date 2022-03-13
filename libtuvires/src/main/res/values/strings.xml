@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pattern_date">%02d/%02d/%04d</string>
+    <string-array name="gender_names">
+        <item>Nữ</item>
+        <item>Nam</item>
+    </string-array>
+    <string-array name="day_names">
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+    </string-array>
+
+    <string-array name="can_names">
+        <item>Giáp</item>
+        <item>Ất</item>
+        <item>Bính</item>
+        <item>Đinh</item>
+        <item>Mậu</item>
+        <item>Kỷ</item>
+        <item>Canh</item>
+        <item>Tân</item>
+        <item>Nhâm</item>
+        <item>Quý</item>
+    </string-array>
+    <string-array name="can_short_names">
+        <item>G</item>
+        <item>Ấ</item>
+        <item>B</item>
+        <item>Đ</item>
+        <item>M</item>
+        <item>K</item>
+        <item>C</item>
+        <item>T</item>
+        <item>N</item>
+        <item>Q</item>
+    </string-array>
+
+    <string-array name="chi_names">
+        <item>Tý</item>
+        <item>Sửu</item>
+        <item>Dần</item>
+        <item>Mão</item>
+        <item>Thìn</item>
+        <item>Tỵ</item>
+        <item>Ngọ</item>
+        <item>Mùi</item>
+        <item>Thân</item>
+        <item>Dậu</item>
+        <item>Tuất</item>
+        <item>Hợi</item>
+    </string-array>
+
+    <string-array name="yingyang_gender_names">
+        <item>Dương Nam</item>
+        <item>Âm Nữ</item>
+        <item>Âm Nam</item>
+        <item>Dương Nữ</item>
+    </string-array>
+    <string-array name="yingyang_rel_names">
+        <item>Âm - Dương thuận lý</item>
+        <item>Âm - Dương nghịch lý</item>
+    </string-array>
+    <string-array name="cuc_names">
+        <item>Thủy Nhị Cục</item>
+        <item>Mộc Tam Cục</item>
+        <item>Kim Tứ Cục</item>
+        <item>Thổ Ngũ Cục</item>
+        <item>Hỏa Lục Cục</item>
+    </string-array>
+    <string-array name="menh_cuc_rel_names">
+        <item>Mệnh - Cục tị hòa</item>
+        <item>Mệnh sinh Cục</item>
+        <item>Mệnh khắc Cục</item>
+        <item>Cục sinh Mệnh</item>
+        <item>Cục khắc Mệnh</item>
+    </string-array>
+    <string-array name="chart_element_names">
+        <item>Mệnh</item>
+        <item>Phụ Mẫu</item>
+        <item>Phúc Đức</item>
+        <item>Điền Trạch</item>
+        <item>Quan Lộc</item>
+        <item>Nô Bộc</item>
+        <item>Thiên Di</item>
+        <item>Tật Ách</item>
+        <item>Tài Bạch</item>
+        <item>Tử Tức</item>
+        <item>Phu Thê</item>
+        <item>Huynh Đệ</item>
+        <item>Thân</item>
+    </string-array>
+</resources>
